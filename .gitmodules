@@ -1,0 +1,3 @@
+[submodule "glm-aed"]
+	path = glm-aed
+	url = https://github.com/AquaticEcoDynamics/glm-aed.git
