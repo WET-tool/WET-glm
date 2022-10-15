@@ -1,6 +1,6 @@
 # WET-glm
 
-Create a docker image to run the ![General Lake Model](https://github.com/AquaticEcoDynamics/glm-aed) (GLM). Generally, this is a base image from which apps that provide services that rely on GLM simulation outputs can be built. 
+Create a docker image to run the [General Lake Model](https://github.com/AquaticEcoDynamics/glm-aed) (GLM). Generally, this is a base image from which apps that provide services that rely on GLM simulation outputs can be built. 
 
 ## Add GLM
 
