@@ -23,7 +23,7 @@ docker build -t wet-glm .
 Rename the docker `wet-glm` image with docker hub username:
 
 ```
-docker tag wet-glm <docker hub username>/we-glm
+docker tag wet-glm <docker hub username>/wet-glm
 ```
 
 Push to docker hub:
