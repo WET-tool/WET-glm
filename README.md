@@ -29,7 +29,7 @@ docker tag wet-glm <docker hub username>/wet-glm
 Push to docker hub:
 
 ```
-docker push <docker hub username>/we-glm
+docker push <docker hub username>/wet-glm
 ```
 
 ## Test
